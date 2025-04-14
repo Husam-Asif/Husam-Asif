@@ -17,7 +17,12 @@ I am an enthusiastic and data-driven professional with a strong analytical minds
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="36" height="36" alt="Power BI" />
 </a>
-
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" />
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="36" height="36" alt="Excel" />
+</a>
 
 ### Socials
 
