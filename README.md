@@ -30,7 +30,7 @@ I am an enthusiastic and data-driven professional with a strong analytical minds
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="36" height="36" alt="PowerPoint" />
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-outlook-2013.svg" width="36" height="36" alt="Outlook" />
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-outlook-2013.svg" width="36" height="36" alt="Outlook"/>
 </a>
 
 ### Socials
