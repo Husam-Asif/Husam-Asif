@@ -23,14 +23,14 @@ I am an enthusiastic and data-driven professional with a strong analytical minds
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="36" height="36" alt="Excel" />
 </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013.svg" width="36" height="36" alt="Word" />
-</a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="36" height="36" alt="PowerPoint" />
 </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" width="36" height="36" alt="Word" />
+</a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-outlook-2013.svg" width="36" height="36" alt="Outlook"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" width="36" height="36" alt="Outlook" />
 </a>
 
 ### Socials
