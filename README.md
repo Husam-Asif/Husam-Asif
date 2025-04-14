@@ -7,13 +7,12 @@ Data analyst
 I am an enthusiastic and data-driven professional with a strong analytical mindset and a passion for extracting insights from complex datasets. As a hardworking Economics and Finance graduate, I am proficient in SQL, Python, Power BI, Tableau, and Excel. I leverage data to drive decision-making, optimise workflows, and solve real-world problems. My ability to analyse trends, develop predictive models, and create impactful visualisations allows me to transform raw information into meaningful business solutions. I thrive both independently and as part of a team, collaborating effectively to deliver data-driven strategies while maintaining a strong focus on accuracy and regulatory compliance. A highly motivated and detail-oriented professional, I apply my analytical skills and technical expertise to every task, continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and business intelligence. With a proactive approach to learning, I quickly adapt to new technologies and industry trends. I am passionate about tackling complex data projects, automating processes, and making strategic, data-driven decisions that enhance efficiency and innovation. My adaptability, problem-solving mindset, and passion for data make me a valuable asset in any data-driven environment.
 
 *   🌍  I'm based in London
-*   ✉️  You can contact me at [husamasif98@outlook.com](mailto:husamasif98@outlook.com)
-*   🤝  I'm open to collaborating on new challenges### Skills 
+*   ✉️  You can contact me at [husamasif98@outlook.com](mailto:husamasif98@outlook.com)### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
                     </p>
                     
-                
+                  ### Socials
                   
                   
                 <p align="left">
