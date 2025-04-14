@@ -15,7 +15,7 @@ I am an enthusiastic and data-driven professional with a strong analytical minds
 ### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                       <a href="https://www.github.com/Husam-Asif" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
