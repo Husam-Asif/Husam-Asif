@@ -4,10 +4,9 @@ Hi 👋 My name is Husam Asif
 Data analyst
 ------------
 
-I am an enthusiastic and data-driven professional with a strong analytical mindset and a passion for extracting insights from complex datasets. As a hardworking Economics and Finance graduate, I am proficient in SQL, Python, Power BI, Tableau, and Excel. I leverage data to drive decision-making, optimise workflows, and solve real-world problems. My ability to analyse trends, develop predictive models, and create impactful visualisations allows me to transform raw information into meaningful business solutions.
-I thrive both independently and as part of a team, collaborating effectively to deliver data-driven strategies while maintaining a strong focus on accuracy and regulatory compliance. A highly motivated and detail-oriented professional, I apply my analytical skills and technical expertise to every task, continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and business intelligence. 
-With a proactive approach to learning, I quickly adapt to new technologies and industry trends. I am passionate about tackling complex data projects, automating processes, and making strategic, data-driven decisions that enhance efficiency and innovation. My adaptability, problem-solving mindset, and passion for data make me a valuable asset in any data-driven environment.
+🎓 I'm an enthusiastic Economics and Finance graduate with a strong analytical mindset and a passion for transforming complex datasets into actionable insights. Proficient in SQL, Python, Power BI, Tableau, and Excel, I use data to drive smarter decision-making, optimize workflows, and solve real-world challenges. My strengths lie in identifying trends, building predictive models, and crafting impactful visualizations that turn raw data into meaningful business value.
 
+💡 I thrive both independently and in team environments, consistently applying attention to detail and a problem-solving approach. With a keen interest in data analytics, business intelligence, and machine learning, I’m always seeking to learn new technologies and grow as a data professional. I’m passionate about automating processes, improving efficiency, and delivering data-driven solutions that make a difference.
 * 🌍  I'm based in London
 * ✉️  You can contact me at [husamasif98@outlook.com](mailto:husamasif98@outlook.com)
 * 🧠  I'm learning Python for data automation & APIs
