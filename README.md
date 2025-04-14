@@ -8,6 +8,8 @@ I am an enthusiastic and data-driven professional with a strong analytical minds
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [husamasif98@outlook.com](mailto:husamasif98@outlook.com)
+* 🧠  I'm learning Python for data automation & APIs
+* 🤝  I'm open to collaborating on Open-source data tools or visualisations
 
 ### Skills
 
