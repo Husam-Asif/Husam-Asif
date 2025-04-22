@@ -8,7 +8,6 @@ Data analyst
 
 💡 I thrive both independently and in team environments, consistently applying attention to detail and a problem-solving approach. With a keen interest in data analytics, business intelligence, and machine learning, I’m always seeking to learn new technologies and grow as a data professional. I’m passionate about automating processes, improving efficiency, and delivering data-driven solutions that make a difference.
 * 🌍  I'm based in London
-* ✉️  You can contact me at [husamasif98@outlook.com](mailto:husamasif98@outlook.com)
 * 🧠  I'm learning Python, Power Bi, Tableau for data automation & APIs
 * 🤝  I'm open to collaborating on Open-source data tools or visualisations
 
